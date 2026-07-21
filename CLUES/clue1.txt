@@ -1,0 +1,6 @@
+Clue 1
+
+I show you what is in the current directory without opening anything.
+What Linux command am I?
+
+When you have the answer, open CLUES/clue2.txt.
