@@ -1,6 +1,9 @@
 Final Puzzle
 
-Put the three Linux commands in order from clue 1 to clue 3.
-Use spaces between the answers.
+You have deciphered three incantations. Now chain them.
+When wielded together, they form a master's spell—the toolkit of the seeker.
+
+Type them in sequence (separated by spaces) as one would invoke them from the shell
+to hunt through a directory's secrets.
 
 When you have the sequence, go to hidden/secrect.txt for the last note.

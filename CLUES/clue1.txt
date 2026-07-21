@@ -1,6 +1,8 @@
 Clue 1
 
-I point out the ordinary names in the room and stay quiet about the ones that begin with a dot.
+I catalog the visible inhabitants of this filesystem node, rendering their names as roster,
+yet I avert my gaze from those cloaked in the shadow of a dot.
+
 What Linux command am I?
 
 When you have the answer, open CLUES/clue2.txt.

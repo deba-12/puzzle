@@ -1,6 +1,9 @@
 Clue 3
 
-I look inside files for a pattern instead of chasing them by name.
+I wade through oceans of text, hunting for the echo of your desire,
+indifferent to the vessel that contains it. I am the seeker of patterns,
+the fisher of lines, extracting only those that mirror your query.
+
 What Linux command am I?
 
 When you have the answer, open puzzle/final_puzzle.txt.
