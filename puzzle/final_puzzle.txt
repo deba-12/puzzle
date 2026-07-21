@@ -1,0 +1,6 @@
+Final Puzzle
+
+Put the three Linux commands in order from clue 1 to clue 3.
+The answer should be three commands separated by spaces.
+
+Example format: command1 command2 command3
