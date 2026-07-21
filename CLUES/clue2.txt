@@ -1,0 +1,6 @@
+Clue 2
+
+I reveal every file, even the hidden ones that start with a dot.
+What Linux command am I?
+
+When you have the answer, open CLUES/clue3.txt.
