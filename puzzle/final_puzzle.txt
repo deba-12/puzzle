@@ -1,6 +1,6 @@
 Final Puzzle
 
 Put the three Linux commands in order from clue 1 to clue 3.
-The answer should be three commands separated by spaces.
+Use spaces between the answers.
 
-Example format: command1 command2 command3
+When you have the sequence, go to hidden/secrect.txt for the last note.

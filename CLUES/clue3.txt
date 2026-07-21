@@ -1,6 +1,6 @@
 Clue 3
 
-I help you find matching text inside files.
+I look inside files for a pattern instead of chasing them by name.
 What Linux command am I?
 
 When you have the answer, open puzzle/final_puzzle.txt.

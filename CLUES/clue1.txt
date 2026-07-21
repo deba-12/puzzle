@@ -1,6 +1,6 @@
 Clue 1
 
-I show you what is in the current directory without opening anything.
+I point out the ordinary names in the room and stay quiet about the ones that begin with a dot.
 What Linux command am I?
 
 When you have the answer, open CLUES/clue2.txt.
